@@ -10,6 +10,9 @@ function App() {
         <p>
           I am running inside a Docker container! 🐋
         </p>
+        <p>
+          I am running on AWS Elastic Beanstalk! 📦
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
