@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           I am running inside a Docker container! 🐋
+          I am running on AWS Elastic Beanstalk! 📦
         </p>
         <a
           className="App-link"
